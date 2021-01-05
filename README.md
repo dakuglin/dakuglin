@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, nice to meet you. 👋
 
-<!--
-**dakuglin/dakuglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dana Kuglin, I am a full stack developer. 
+I have a passion for front end development. 
+I love Javascript and React!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building a website. 
+- 🌱 I’m currently learning typescript. 
+- 💬 Please ask me about any of my previous projects. 
+- 📫 How to reach me: dakuglin@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Languages - 
+Javascript | Typescript | HTML | CSS 
+
+Technologies & Tools - 
+React | JQuery | APIs | Heroku | MongoDB | Mongoose | MySQL | Express | Nodejs 
 -->
+
+
