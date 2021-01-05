@@ -14,6 +14,6 @@ Javascript | Typescript | HTML | CSS
 
 Technologies & Tools - 
 React | JQuery | APIs | Heroku | MongoDB | Mongoose | MySQL | Express | Nodejs 
--->
+
 
 
