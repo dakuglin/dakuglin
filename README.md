@@ -1,6 +1,6 @@
 ### Hi there, nice to meet you. 👋
 
-My name is Dana Kuglin, I am a full stack developer. 
+My name is Dana Weijers, I am a full stack developer. 
 I have a passion for front end development. 
 I love Javascript and React!
 
