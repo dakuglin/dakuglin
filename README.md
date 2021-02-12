@@ -5,7 +5,7 @@ I have a passion for front end development.
 I love Javascript and React!
 
 - 🔭 I’m currently working on building a website for O'brien Home Improvement. 
-- 🌱 I’m currently learning Typescript. 
+- 🌱 I’m currently learning Typescript & Go. 
 - 💬 Please ask me about any of my previous projects. 
 - 📫 How to reach me: dakuglin@gmail.com
 
